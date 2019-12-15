@@ -1,0 +1,26 @@
+{
+  "name": "dom-testing-library-template",
+  "version": "1.0.0",
+  "description": "Template for dom-testing-library bug reproduction",
+  "license": "MIT",
+  "author": "alexkrolick",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "dependencies": {
+    "@testing-library/dom": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "history": "^4.10.1",
+    "jest": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "latest"
+  }
+}
